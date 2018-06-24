@@ -1,5 +1,13 @@
+h1 {
+	background-color: black;
+}
+
 body {
 	color: white;
 	background-color: red;
 	text-align: center;
+}
+
+p {
+	background-color: blue;
 }
